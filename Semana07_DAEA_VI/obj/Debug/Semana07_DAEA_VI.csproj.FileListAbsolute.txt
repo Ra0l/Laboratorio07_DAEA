@@ -1,0 +1,7 @@
+C:\Users\TOSHIBA\source\repos\Semana07_DAEA_VI\Semana07_DAEA_VI\obj\Debug\Semana07_DAEA_VI.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\Semana07_DAEA_VI\Semana07_DAEA_VI\obj\Debug\Semana07_DAEA_VI.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\Semana07_DAEA_VI\Semana07_DAEA_VI\bin\Debug\Semana07_DAEA_VI.exe.config
+C:\Users\TOSHIBA\source\repos\Semana07_DAEA_VI\Semana07_DAEA_VI\bin\Debug\Semana07_DAEA_VI.exe
+C:\Users\TOSHIBA\source\repos\Semana07_DAEA_VI\Semana07_DAEA_VI\bin\Debug\Semana07_DAEA_VI.pdb
+C:\Users\TOSHIBA\source\repos\Semana07_DAEA_VI\Semana07_DAEA_VI\obj\Debug\Semana07_DAEA_VI.exe
+C:\Users\TOSHIBA\source\repos\Semana07_DAEA_VI\Semana07_DAEA_VI\obj\Debug\Semana07_DAEA_VI.pdb
